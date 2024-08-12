@@ -17,13 +17,15 @@ This repository is aimed at documenting my journey of learning C++ programming. 
 - **Day 1:** Topic - [Introduction to cpp]
 - **Day 2:** Topic - [Output in cpp]
 - **Day 3:** Topic - [Input in cpp]
-- **Day 4:** Topic - [If-Else Loop]
+- **Day 4:** Topic - [If-Else]
+- **Day 5:** Topic - [For Loop]
 
 ## Topics Covered
 1. [Introduction to cpp](https://github.com/RaoVrn/Cpp-Journey/tree/main/1_Introduction)
 2. [Output](https://github.com/RaoVrn/Cpp-Journey/tree/main/2_Output)
 3. [Input](https://github.com/RaoVrn/Cpp-Journey/tree/main/3_Input)
-4. [If-Else Loop](https://github.com/RaoVrn/Cpp-Journey/tree/main/4_If-Else)
+4. [If-Else](https://github.com/RaoVrn/Cpp-Journey/tree/main/4_If-Else)
+5. [For Loop](https://github.com/RaoVrn/Cpp-Journey/tree/main/5_For-Loop)
 
 ## How to Use
 1. Clone this repository:
