@@ -27,6 +27,7 @@ This repository is aimed at documenting my journey of learning C++ programming. 
 4. [If-Else](https://github.com/RaoVrn/Cpp-Journey/tree/main/4_If-Else)
 5. [For Loop](https://github.com/RaoVrn/Cpp-Journey/tree/main/5_For-Loop)
 6. [While Loop](https://github.com/RaoVrn/Cpp-Journey/tree/main/6_While-Loop)
+7. [Do-While Loop](https://github.com/RaoVrn/Cpp-Journey/tree/main/7_Do-While-Loop)
 
 ## How to Use
 1. Clone this repository:
