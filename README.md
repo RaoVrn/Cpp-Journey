@@ -28,6 +28,7 @@ This repository is aimed at documenting my journey of learning C++ programming. 
 5. [For Loop](https://github.com/RaoVrn/Cpp-Journey/tree/main/5_For-Loop)
 6. [While Loop](https://github.com/RaoVrn/Cpp-Journey/tree/main/6_While-Loop)
 7. [Do-While Loop](https://github.com/RaoVrn/Cpp-Journey/tree/main/7_Do-While-Loop)
+8. [Continue](https://github.com/RaoVrn/Cpp-Journey/tree/main/8_Continue)
 
 ## How to Use
 1. Clone this repository:
